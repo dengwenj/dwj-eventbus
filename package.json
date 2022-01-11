@@ -1,0 +1,23 @@
+{
+  "name": "dwj-eventbus",
+  "version": "1.0.0",
+  "description": "a eventbus package",
+  "main": "index.js",
+  "scripts": {
+    "eventbus": "node ./index.js"
+  },
+  "author": "dengwenjie",
+  "license": "ISC",
+    "keywords": [
+    "dwj",
+    "eventbus",
+    "dengwj",
+    "react",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengwenj/dwj-utils"
+  },
+  "homepage": "https://github.com/dengwenj"
+}
