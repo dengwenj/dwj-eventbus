@@ -75,20 +75,6 @@ class DWJEventBus {
   }
 }
 
-
-
-const d = new DWJEventBus()
-
-
-
-
-d.emit('on', 1, 2)
-
-d.on('on', (a, b) => {
-  console.log(a, b);
-})
-
-
 module.exports = {
   DWJEventBus
 }
